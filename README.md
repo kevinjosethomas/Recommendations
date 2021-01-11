@@ -14,3 +14,4 @@ Follow this format and add it to the **end** of the [list](#list) below, thanks!
 
 ## List
 
+[clvrk](https://github.com/clvrk) - After tuning into Mercury's development streams, I can say without a doubt that his proficiency in Web development is un-peered by people his age and he stands among those with experience. He has helped me out with API related questions and is capable of making straight-forward & clean Websites half of the devs these days couldn't even dream of developing.

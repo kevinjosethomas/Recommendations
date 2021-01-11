@@ -3,7 +3,7 @@
 
 ## Contribute
 To add yourself below, fork the repository, add yourself by following the [format]() below and create a pull request [here](). 
-Credit to [@Iapetus-11](https://github.com/iapetus-11) for the idea!
+Please refrain from swearing in the comment, thanks 💖 Credit to [@Iapetus-11](https://github.com/iapetus-11) for the idea of this repository!
 
 ## Format
 Follow this format and add it to the **end** of the list below, thanks!

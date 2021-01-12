@@ -19,3 +19,5 @@ Follow this format and add it to the **end** of the [list](#list) below, thanks!
 [Milo](https://github.com/Iapetus-11/) - Kevin and I have been through a lot, teaching each other many things as we have traversed the world of programming. Without him, I wouldn't have learned JavaScript and probably would still be using thonny as an IDE.
 
 [milanmdev](https://github.com/milanmdev) - Mercury has supported me through a lot of my different projects. He helped me with getting my own bot list & other sites up and running. I don't know much about nginx, etc but Mercury makes it easy to understand. Thanks Mercury for everything!
+
+[wulf](https://github.com/itsmewulf) - I've known Mercury for quite some time now, and I can confidently say that his knowledge and skillset is absolutely outstanding for developers not only his age, but also in general. While I know this repo is mainly meant for dev-related thank-you's, I'd like to say that Kevin is without a doubt the most like-minded software developer I've met along my programming journey so far; he gave lots of important feedback on my applications, and I've also picked up some nice tips and tricks along the way :smile:

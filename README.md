@@ -18,4 +18,4 @@ Follow this format and add it to the **end** of the [list](#list) below, thanks!
 
 [Milo](https://github.com/Iapetus-11/) - Kevin and I have been through a lot, teaching each other many things as we have traversed the world of programming. Without him, I wouldn't have learned JavaScript and probably would still be using thonny as an IDE.
 
-[milanmdev](https://github.com/milanmdev) - Mercury has supported me through a lot of my different projects. He helped me with getting my own bot list up, which is now shut down. Thanks Mercury for everything!
+[milanmdev](https://github.com/milanmdev) - Mercury has supported me through a lot of my different projects. He helped me with getting my own bot list & other sites up and running. I don't know much about nginx, etc but Mercury makes it easy to understand. Thanks Mercury for everything!

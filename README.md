@@ -9,7 +9,7 @@ Please refrain from swearing in the comment, thanks 💖 Credit to [@Iapetus-11]
 ## Format
 Follow this format and add it to the **end** of the [list](#list) below, thanks!
 ```
-- [YOUR_NAME](LINK_TO_YOUR_GITHUB_PROFILE) - COMMENT
+[YOUR_NAME](LINK_TO_YOUR_GITHUB_PROFILE) - COMMENT
 ```
 
 ## List
@@ -27,4 +27,5 @@ Follow this format and add it to the **end** of the [list](#list) below, thanks!
 [Issai](https://github.com/TheLimifiedLime) - Without Mercury I would not know as much as I know about programming as I do now. Thanks to Mercury I have gotten farther than I ever thought. Mercury is a great person with amaing skills and I know he will get far. If you can name it he can do it.
 
 [Colin](https://github.com/KO4JZT) - In my time working with Kevin at KOA, I learned how incredible of a developer he is. Even as a fellow young programmer, I have never met anyone close to his age with such great skill that is continuing to rapidly grow. Kevin makes a great addition to any project, big or small.
--  [Sh-](https://www.youtube.com/watch?v=dQw4w9WgXcQ)[wayz](https://github.com/sh-wayz) - Kevin is a pretty great guy to have developing with you, he's got a lot of drive and willingness to learn, and is way more experienced than I would ever expect from someone his age. Overall a really skilled dude that is fun to work with.
+
+[Sh-](https://www.youtube.com/watch?v=dQw4w9WgXcQ)[wayz](https://github.com/sh-wayz) - Kevin is a pretty great guy to have developing with you, he's got a lot of drive and willingness to learn, and is way more experienced than I would ever expect from someone his age. Overall a really skilled dude that is fun to work with.

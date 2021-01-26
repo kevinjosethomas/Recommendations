@@ -25,3 +25,5 @@ Follow this format and add it to the **end** of the [list](#list) below, thanks!
 [Havish](https://github.com/havishpallerla) - You know why I'm taking the time to write this? Because I know Kevin's going to achieve his dreams & goals and I'll be able to be put on the spotlight in this repository. He's helped me several times by giving out advice, feedback, and tips. And I know that Kevin's going to reach tremendous heights as an entrepreneur. :smile:
 
 [Issai](https://github.com/TheLimifiedLime) - Without Mercury I would not know as much as I know about programming as I do now. Thanks to Mercury I have gotten farther than I ever thought. Mercury is a great person with amaing skills and I know he will get far. If you can name it he can do it.
+
+[Colin](https://github.com/KO4JZT) - In my time working with Kevin at KOA, I learned how incredible of a developer he is. Even as a fellow young programmer, I have never met anyone close to his age with such great skill that is continuing to rapidly grow. Kevin makes a great addition to any project, big or small.

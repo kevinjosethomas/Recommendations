@@ -14,7 +14,7 @@ Follow this format and add it to the **end** of the [list](#list) below, thanks!
 
 ## List
 
-[clvrk](https://github.com/clvrk) - After tuning into Mercury's development streams, I can say without a doubt that his proficiency in Web development is un-peered by people his age and he stands among those with experience. He has helped me out with API related questions and is capable of making straight-forward & clean Websites half of the devs these days couldn't even dream of developing.
+[clvrk](https://github.com/clvrk) - After tuning into Mercury's development streams, I can say without a doubt that his proficiency in Web development is un-peered by people his age and he stands among those of experience. He has continuously helped and never failed my queries, common ones being, API & Web development related questions. He is even capable of making straight-forward & clean Websites half of the devs these days couldn't even dream of developing. Another thing to mention is his unwavering patience whenever i seek help from him, it shows me that he's not only a good developer, but he knows what to say, how to say it and finally, what he is saying. All of these factors prove that his leadership skills are just as exceptional as his skills as a developer. Bro's the whole package.
 
 [Milo](https://github.com/Iapetus-11/) - Kevin and I have been through a lot, teaching each other many things as we have traversed the world of programming. Without him, I wouldn't have learned JavaScript and probably would still be using thonny as an IDE.
 
